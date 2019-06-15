@@ -12,9 +12,10 @@ li{
     list-style: none;
 }
 
-ul{
+.select ul{
     display: block;
     width: 25%;
+    float: left;
 }
 
 .top-wrapper{
@@ -36,7 +37,6 @@ ul{
 .select{
     background-color: #fff;
     height: 100px;
-    float: left;
     width: 100%;
 }
 
