@@ -9,6 +9,15 @@ html {
     width: 100%;
 }
 
+li{
+    list-style: none;
+}
+
+.select li{
+    float: left;
+    color: rgb(255, 78, 172);
+}
+
 .top-wrapper{
     background-color: rgba(255, 195, 232, .5);
     background-image: url(top_img01.jpg);
@@ -29,6 +38,10 @@ html {
     height: 100px;
 }
 
+.select-logo{
+    padding: 20px 20px;
+}
+
 .info{
     background-color: #ff33a3;
     height: 350px;
@@ -40,7 +53,9 @@ html {
 }
 
 footer{
-    background-color: #ffe6f4;
+    background-color: rgba(255, 195, 232, 1);
     height: 100px;
+    position: relative;
+    z-index: 1;
 }
 
