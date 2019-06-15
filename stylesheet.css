@@ -15,9 +15,11 @@ li{
 .select ul{
     display: block;
     width: 25%;
-    float: left;
 }
 
+.select li{
+    float: left;
+}
 .top-wrapper{
     background-color: rgba(255, 195, 232, .5);
     background-image: url(top_img01.jpg);
