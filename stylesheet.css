@@ -11,6 +11,7 @@ html {
 
 .top-wrapper{
     background-color:#ffe6f4;
+    background-image: url(top_img01.jpg);
     height: 789px;
     position: fixed;
     top: 0;
