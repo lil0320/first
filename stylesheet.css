@@ -17,10 +17,14 @@ html {
     z-index: 0;
 }
 
+.main{
+    margin-top: 689px;
+    position: relative;
+    z-index: 1;
+}
 .select{
     background-color: #fff;
     height: 100px;
-    margin-top: 689px;
 }
 
 .info{
