@@ -8,6 +8,10 @@ html {
     margin: 0;
 }
 
+a{
+    text-decoration: none;
+}
+
 li{
     list-style: none;
 }
@@ -18,7 +22,9 @@ li{
 
 .select-float li{
     float: left;
-    padding-right:20px; 
+    padding:30px 50px 30px 0;
+    font-size: 40px;
+
 }
 .top-wrapper{
     background-color: rgba(255, 195, 232, .5);
@@ -44,7 +50,9 @@ li{
 }
 
 .select-logo{
-    padding: 20px 20px;
+    padding: 30x 100px 30px 30px;
+    font-size: 40px
+
 }
 
 .info{
