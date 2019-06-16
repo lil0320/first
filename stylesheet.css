@@ -27,7 +27,7 @@ li{
 }
 .background{
     background-color: rgba(255, 195, 232, .5);
-    background-image: url(top_img.jpg);
+    background-image: url(top_img01.jpg);
     background-repeat: repeat;
     height: 789px;
     position: fixed;
