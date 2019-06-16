@@ -14,7 +14,6 @@ li{
 
 .select ul{
     display: block;
-    width: 25%;
 }
 
 .select-float li{
@@ -40,6 +39,7 @@ li{
     background-color: #fff;
     height: 100px;
     width: 100%;
+    display: flex;
 }
 
 .select-logo{
